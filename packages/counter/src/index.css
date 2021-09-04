@@ -13,10 +13,29 @@ code {
 }
 
 button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	width: 150px;
 	margin: 5px;
 	height: 40px;
 	border-radius: 5px;
 	outline: none;
 	border: none;
+	cursor: pointer;
+	font-size: 40px;
+	background-color: #efefef;
+	color: #000000;
+	transition: all 0.3s;
+	user-select: none;
+}
+
+.decrement:hover {
+	color: #efefef;
+	background-color: red;
+}
+
+.increment:hover {
+	color: #efefef;
+	background-color: green;
 }

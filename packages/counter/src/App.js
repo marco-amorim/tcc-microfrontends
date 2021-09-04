@@ -17,8 +17,8 @@ const App = () => {
 		<div className="app">
 			<div className="counter">
 				<h1>Counter: {counter}</h1>
-				<button onClick={handeIncrement}>Increment</button>
-				<button onClick={handleDecrement}>Decrement</button>
+				<button className="increment" onClick={handeIncrement}>+</button>
+				<button className="decrement" onClick={handleDecrement}>-</button>
 			</div>
 		</div>
 	);
