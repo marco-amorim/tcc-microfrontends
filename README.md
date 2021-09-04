@@ -1,1 +1,1 @@
-## Project for Bachelor's thesis about Micro Frontends
+## Prototype project for Bachelor's thesis about Micro Frontends
