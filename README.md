@@ -1,1 +1,1 @@
-## Micro Frontends prototype project for Bachelor's thesis
+## Micro Frontends prototype project for Bachelor's thesis (Using Single SPA)
