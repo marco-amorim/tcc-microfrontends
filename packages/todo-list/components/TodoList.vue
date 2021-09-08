@@ -46,10 +46,12 @@ export default {
 }
 
 .todo-list input {
-	height: 30px;
+	height: 34px;
 	outline: none;
+	border: none;
 	font-size: 20px;
 	padding: 5px;
+	border-radius: 5px;
 }
 
 .todo-list button {
