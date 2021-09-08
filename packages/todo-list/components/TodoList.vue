@@ -72,4 +72,8 @@ export default {
 	align-items: center;
 	justify-content: space-around;
 }
+
+.todo-list ul {
+	margin-right: auto;
+}
 </style>
